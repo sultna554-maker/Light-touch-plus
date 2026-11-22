@@ -19,19 +19,6 @@ unzip it, and move **VirtualIos.app** to Applications.
   no longer hosts), checks it against its published hash, and prepares the device on your Mac. You can
   also import an IPSW you already have.
 
-## Devices
-
-| Device | Versions |
-|---|---|
-| iPhone | iPhone OS 1.0 |
-| iPhone 3GS | iPhone OS 3.0 to iOS 6.1.6 |
-| iPhone 4 (GSM) | iOS 4.0 to 7.1.2, plus iOS 6.0 and 7.0 betas |
-| iPod touch (1st gen) | iPhone OS 1.1 to 1.1.5 |
-| iPod touch (2nd gen) | iPhone OS 2.1.1 to iOS 4.2.1 |
-| iPod touch (3rd gen) | iPhone OS 3.1.1 to iOS 5.1.1 |
-| iPod touch (4th gen) | iOS 4.1 to 6.1.6, plus the iOS 6.0 beta |
-| iPad | iPhone OS 3.2 to iOS 5.1.1 |
-
 Most builds are marked experimental: they boot and pass their checks, but haven't been through as much
 use as the stable ones. Turn on **Show experimental** in the Add Device sheet to see them.
 
@@ -40,9 +27,8 @@ use as the stable ones. Turn on **Show experimental** in the Add Device sheet to
 virtualios is a Mac app for the devices in the table above, and that's all it will be. These aren't
 planned, and requests for them will be closed:
 
-- Versions for Windows, Linux, Android, iOS, iPadOS or the web, including companion or remote apps.
-- Other devices: iPod classic, nano or shuffle, Apple TV, Apple Watch, or any iPhone, iPod touch or
-  iPad newer than the ones listed.
+- Versions for Windows, Linux, Android, iOS, iPadOS including companion or remote apps.
+- Other devices: iPod classic, nano or shuffle, Apple TV, Apple Watch
 - iOS versions those devices never ran.
 
 Bug reports and ideas for the listed devices on the Mac are welcome.
