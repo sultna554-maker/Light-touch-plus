@@ -1,20 +1,20 @@
-# Light Touch
+# VIRTUALIOS.  possible with light touch's help:]
 
 Built with use from agentic coding products.
 
-Light Touch runs classic Apple devices on your Mac: the original iPhone and iPod touch through the
-iPhone 4, iPod touch 4 and the first iPad, on the iPhone OS and iOS versions they shipped with. Each
+VIRTUALIOS runs classic Apple devices on your Mac: the original iPhone, iPod touch through the
+iPhone 4, and the first iPad, on the iPhone OS and iOS versions they shipped with. Each
 device runs Apple's own firmware in an emulator, so it behaves like the real thing: the Home screen,
 the built-in apps, App Store apps and games of the era, Wi-Fi, music and photos, and on the iPhones a
 simulated cellular network for calls and texts.
 
 ## Download
 
-Get the latest notarized build from [Releases](https://github.com/samhenrigold/LightTouchMac/releases),
-unzip it, and move **Light Touch.app** to Applications.
+Get the latest notarized build from   [RELEASES] https://github.com/sultna554-maker/virtualios
+unzip it, and move **VirtualIos.app** to Applications.
 
 - macOS 14.4 or later, on Apple silicon or Intel.
-- Light Touch includes a ready-to-use iPod touch (2nd gen) on iOS 3.1.3. For every other device and
+- virtualios includes a ready-to-use iPod touch (2nd gen) on iOS 3.1.3. For every other device and
   version it downloads Apple's original firmware (from Apple, or from public archives for builds Apple
   no longer hosts), checks it against its published hash, and prepares the device on your Mac. You can
   also import an IPSW you already have.
@@ -37,7 +37,7 @@ use as the stable ones. Turn on **Show experimental** in the Add Device sheet to
 
 ## Scope
 
-Light Touch is a Mac app for the devices in the table above, and that's all it will be. These aren't
+virtualios is a Mac app for the devices in the table above, and that's all it will be. These aren't
 planned, and requests for them will be closed:
 
 - Versions for Windows, Linux, Android, iOS, iPadOS or the web, including companion or remote apps.
@@ -63,7 +63,7 @@ TEST_RUNNER_LTM_RELEASE_APP="path/to/Light Touch.app" xcodebuild test -project L
 
 ## License and credits
 
-Light Touch is free software under the GNU General Public License, version 2 or (at your option) any
+virtualios is free software under the GNU General Public License, version 2 or (at your option) any
 later version; see [LICENSE](LICENSE).
 
 It stands on a lot of other work:
@@ -77,4 +77,4 @@ It stands on a lot of other work:
 Each bundled component's license (and, for GPL and LGPL components, where to get its source) is in
 the app under `Contents/Resources/licenses` and in **About Light Touch**.
 
-iPhone, iPod touch and iPad are trademarks of Apple Inc. Light Touch is not affiliated with Apple.
+iPhone, iPod touch and iPad are trademarks of Apple Inc.  is not affiliated with Apple.
