@@ -1,4 +1,4 @@
-# VIRTUALIOS.  possible with light touch's help:]
+# LIGHT TOUCH +
 
 Built with use from agentic coding products.
 
@@ -11,7 +11,7 @@ simulated cellular network for calls and texts.
 ## Download
 
 Get the latest notarized build from   [RELEASES] https://github.com/sultna554-maker/virtualios
-unzip it, and move **VirtualIos.app** to Applications.
+unzip it, and move **lighttouch.app** to Applications.
 
 - macOS 14.4 or later, on Apple silicon or Intel.
 - virtualios includes a ready-to-use iPod touch (2nd gen) on iOS 3.1.3. For every other device and
@@ -24,10 +24,10 @@ use as the stable ones. Turn on **Show experimental** in the Add Device sheet to
 
 ## Scope
 
-virtualios is a Mac app for the devices in the table above, and that's all it will be. These aren't
+light touch + is a Mac app for the devices in the table above, and that's all it will be. These aren't
 planned, and requests for them will be closed:
 
-- Versions for Windows, Linux, Android, iOS, iPadOS including companion or remote apps.
+
 - Other devices: iPod classic, nano or shuffle, Apple TV, Apple Watch
 - iOS versions those devices never ran.
 
@@ -49,7 +49,7 @@ TEST_RUNNER_LTM_RELEASE_APP="path/to/Light Touch.app" xcodebuild test -project L
 
 ## License and credits
 
-virtualios is free software under the GNU General Public License, version 2 or (at your option) any
+Light Touch + is free software under the GNU General Public License, version 2 or (at your option) any
 later version; see [LICENSE](LICENSE).
 
 It stands on a lot of other work:
