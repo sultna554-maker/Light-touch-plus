@@ -2,7 +2,7 @@
 
 Built with use from agentic coding products.
 
-VIRTUALIOS runs classic Apple devices on your Mac: the original iPhone, iPod touch through the
+Light touch + runs classic Apple devices on your Mac: the original iPhone, iPod touch through the
 iPhone 4, and the first iPad, on the iPhone OS and iOS versions they shipped with. Each
 device runs Apple's own firmware in an emulator, so it behaves like the real thing: the Home screen,
 the built-in apps, App Store apps and games of the era, Wi-Fi, music and photos, and on the iPhones a
@@ -11,7 +11,7 @@ simulated cellular network for calls and texts.
 ## Download
 
 Get the latest notarized build from   [RELEASES] https://github.com/sultna554-maker/virtualios
-unzip it, and move **lighttouch.app** to Applications.
+unzip it, and move **light touch.app** to Applications.
 
 - macOS 14.4 or later, on Apple silicon or Intel.
 - virtualios includes a ready-to-use iPod touch (2nd gen) on iOS 3.1.3. For every other device and
